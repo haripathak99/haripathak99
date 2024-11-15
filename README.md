@@ -4,7 +4,7 @@ I'm a passionate software developer with expertise in web development and cloud 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/556aaa1b7)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ptk_harry)
 ## :briefcase: Current Work
-I am working as a Backend Developer.
+I am working as a Frontend Developer.
 ## :rocket: Skills
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
